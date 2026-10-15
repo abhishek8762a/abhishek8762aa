@@ -1,0 +1,7 @@
+# Company data generated from the Google Sheet — never commit (repo may be public)
+supabase/03_import_history.sql
+*.xlsx
+*.csv
+.env
+node_modules/
+.DS_Store
